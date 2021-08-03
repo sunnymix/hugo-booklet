@@ -21,7 +21,7 @@ This theme is built on Bootstrap 4. The original layout is ported and modified f
 Inside the folder of your Hugo site, run:
 
 ```bash
-git submodule add https://github.com/sunnymix/hugo-booklet.git themes/hugo-booklet
+git submodule add https://github.com/sunnymix/hugo-booklet.git themes/booklet
 ```
 
 For more information, read the official [setup guide](https://gohugo.io/getting-started/installing/) of Hugo.

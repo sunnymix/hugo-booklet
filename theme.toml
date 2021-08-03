@@ -1,15 +1,15 @@
-name = "Tanka"
+name = "Booklet"
 license = "GPL-v3"
-licenselink = "https://github.com/nanxstats/hugo-tanka/blob/master/LICENSE"
+licenselink = "https://github.com/sunnymix/hugo-booklet/blob/master/LICENSE"
 description = "Tanka is a minimalist theme for Hugo"
-homepage = "https://github.com/nanxstats/hugo-tanka"
+homepage = "https://github.com/sunnymix/hugo-booklet"
 tags = ["bootstrap", "minimalist", "responsive", "typography"]
 features = ["Blog", "Responsive", "Minimal", "Clean", "Simple", "Minimalist", "Bootstrap", "Fast"]
 min_version = "0.60.0"
 
 [author]
-  name = "Nan Xiao"
-  homepage = "https://nanx.me"
+  name = "sunny"
+  homepage = "https://sunnymix.com"
 
 [original]
     author = "David Hamp-Gonsalves"
