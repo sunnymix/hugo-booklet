@@ -11,7 +11,6 @@ This theme is built on Bootstrap 4. The original layout is ported and modified f
 - Native font stack
 - Math typesetting (MathJaX)
 - Syntax highlighting (highlight.js)
-- Utterances comments
 - Open Graph meta tags
 - Twitter Cards meta tags
 - Zero web tracking by default
