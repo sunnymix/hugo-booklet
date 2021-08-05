@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-sm-12 col-lg-8">
                     <h1 class="mx-0 mx-md-4">{{ .Title }}</h1>
-                    <div>
+                    <div class="mx-0 mx-md-4 mb-5">
                     {{ if isset .Params "date" }}
                     {{ if eq .Lastmod .Date }}
                         <time>{{ .Date.Format (.Site.Params.dateform | default "2006/01/02") }}</time>
